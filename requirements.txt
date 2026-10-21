@@ -1,0 +1,6 @@
+numpy
+pandas
+scikit-learn
+aeon
+reservoirpy
+git+https://github.com/giordamaug/WisardClassifier-C_vectors.git
